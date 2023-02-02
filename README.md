@@ -5,6 +5,11 @@ ONVIF Device Manager 测试图像
 <img src="https://user-images.githubusercontent.com/18089130/213913959-f33a078f-987c-464d-baec-c32be6681e4a.PNG" width="70%">
 
 
+WIFI连接不上请尝试重新输入密码
+
+<img src="https://user-images.githubusercontent.com/18089130/216384282-c3077bdd-4d43-4d4f-9444-b65d342ee7a8.png" width="40%">
+
+
 此固件支持 ESP32CAM 模块
 
 <img src="https://user-images.githubusercontent.com/18089130/213914444-fcc73b80-f484-4520-9ecc-93c1861e6d12.jpg" width="20%">
